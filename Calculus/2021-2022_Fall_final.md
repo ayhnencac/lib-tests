@@ -3,7 +3,7 @@
 共17题；分A,B两卷，以下是B卷。
 
 ## 填空题
-1. $y=x\ln(e+\dfrac{1}{x^2})$ 的斜渐近线为 $\underline{\qquad}$.
+1. $y=x\ln(e+\dfrac{1}{x^2})$  的斜渐近线为 $\underline{\qquad}$.
 2. $\lim\limits_{n\to +\infty} \dfrac{1}{\sqrt{n}}\left(\dfrac{1}{\sqrt{n}+\sqrt{1}}+\dfrac{1}{\sqrt{n}+\sqrt{2}}+\cdots+\dfrac{1}{\sqrt{n}+\sqrt{n}}\right)=$ $\underline{\qquad}$.
 3. 记 $F(x)=\int_0^{x^2} \cos(\pi t^2)\text{d}t$, 则 $F'(1)=$ $\underline{\qquad}$.
 4. 设 $f(x)=\min\{x^2,1\}$, 则 $\int_0^2 f(x)\text{d}x=$ $\underline{\qquad}$.
